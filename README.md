@@ -16,4 +16,4 @@ ngrams.py [-h] [-d DIR] [--mostCommon MOSTCOMMON] [--frequency FREQUENCY [FREQUE
 * -w: Enables write mode, prints results to command line
 * -p: Enables plot mode, plots results using matplotlib
 * -n: Size of n-grams to read
-Note: -d can be replaced with --dir, -w can be replaced with --write, and -p can be replaced with --plot
+-d can be replaced with --dir, -w can be replaced with --write, and -p can be replaced with --plot
