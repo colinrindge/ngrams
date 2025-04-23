@@ -1,5 +1,5 @@
 # ngrams
-Finds top n-grams of specified length from all files in directory, and prints or graphs them.
+Finds top n-grams of specified length from all files in directory, and prints or graphs them. Created for CSCI-140 at RIT.
 
 # Credits
 ngrams.py is written fully by me, and the util.py and example input files were provided by the RIT Computer Science department.
