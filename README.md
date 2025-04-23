@@ -1,13 +1,13 @@
 # ngrams
 Finds top n-grams of specified length from files, and prints or graphs them.
 
-# credits
+# Credits
 ngrams.py is written fully by me, and the util.py and example input files were provided by the RIT Computer Science department.
 
-# requirements
+# Requirements
 For frequency to work properly, files must be named bs[YYMMDD].txt with [YYMMDD] replaced with the date. Interprets all years as 20XX.
 
-# usage
+# Usage
 ngrams.py [-h] [-d DIR] [--mostCommon MOSTCOMMON] [--frequency FREQUENCY [FREQUENCY ...]] [-w] [-p] [-n N]
 * -h: Prints usage and help message
 * -d DIR: Directory to read files from
